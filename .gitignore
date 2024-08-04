@@ -1,0 +1,13 @@
+# Ignore the .checkpoints directory
+model/.checkpoints/
+
+# Ignore __pycache__ directories and their contents
+model/imagebind/__pycache__/
+model/imagebind/models/__pycache__/
+model/after2monthdata_20%_with_trend.csv
+model/stastics_20%_with_trend.csv
+model/test_after2monthdata.csv
+model/train_after2monthdata.csv
+model/train_classification_num.ipynb
+model/train_regression_num.ipynb
+sync.log
